@@ -10,7 +10,7 @@ https://github.com/creative-computing-society/Guide_to_contribute_in_Hacktoberfe
 Also you can try and learn working with github more on try.github.io !
 
 ## Optional commands
-// Set up Intructions if you want to run broswersync, scss ect. ---
+// Set up Intructions if you want to run broswersync, scss ect
 1. Clone Repo
 2. inside directory root, run - npm install (in terminal)
 3. Run in terminal - gulp dev (will fire up localhost server so you view the site and edit)
